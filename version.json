@@ -1,7 +1,6 @@
 {
   "version": [2,0,0],
   "content": [
-            "Switched to blender 2.93,"
             "Scatter System,",
             "Wind animation system,",
             "Bugfixes,",
