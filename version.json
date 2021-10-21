@@ -2,8 +2,9 @@
   "version": [2,1,0],
   "content": [
             "UI Improvements,",
+            "Lock scatter systems,",
             "Bug fixes,",
-            "Viewport display,",
+            "Viewport display options,",
             "Masks,",
             "Scatter assets other than nisarga assets,"
         ]
