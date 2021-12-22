@@ -1,11 +1,10 @@
 {
-  "version": [2,1,0],
+  "version": [2,2,0],
   "content": [
-            "UI Improvements,",
-            "Lock scatter systems,",
-            "Bug fixes,",
-            "Viewport display options,",
-            "Masks,",
-            "Also Scatter assets other than nisarga assets,"
+            "Compatibility release for Blender 3.0,",
+            "New Fast and better thumbnails,",
+            "More assets,",
+            "Asset thumbnail navigation options,",
+            "Bug fixes,"
         ]
 }
