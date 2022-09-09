@@ -12,7 +12,8 @@
         "Curve proximity Mask,",
         "Object proximity Mask",
         "Duplicate scatter systems,",
-        "Delete all scatter systems at once,""Toggle visibility for all scatter systems at once,",
+        "Delete all scatter systems at once,",
+        "Toggle visibility for all scatter systems at once,",
         "Other distribution options"
     ]
 }
