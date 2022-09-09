@@ -1,19 +1,7 @@
 {
-    "version": [3,0,0],
+    "version": [3,2,0],
     "content": [
-        "10X Faster loading Thumbnails",
-        "UI Improvements,",
-        "Scatter collections,",
-        "Bugfixes,",
-        "Proxy,",
-        "Camera cull mask,",
-        "Distance cull Mask,",
-        "Vertex group Mask,",
-        "Curve proximity Mask,",
-        "Object proximity Mask",
-        "Duplicate scatter systems,",
-        "Delete all scatter systems at once,",
-        "Toggle visibility for all scatter systems at once,",
-        "Other distribution options"
+        "Bug fixes,",
+        "UI Improvements"
     ]
 }
