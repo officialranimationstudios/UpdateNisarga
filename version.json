@@ -1,7 +1,13 @@
 {
-    "version": [3,2,0],
+    "version": [4,0,0],
     "content": [
-        "Bug fixes,",
-        "UI Improvements"
+        "500+ New Assets,",
+        "UI Improvements,",
+        "Scatter system improvements,",
+        "Search filter,",
+        "Season filter,",
+        "Randomize Variant,",
+        "Leaf settings panel,",
+        "Moss for Barks"
     ]
 }
